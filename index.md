@@ -18,7 +18,7 @@ Course discussions for each section, 001 and 002, will be held in the `#dataviz-
 ## Instructor Information
 
 ### Section 001
-Devin Silvia
+**Devin Silvia**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
 **Office hours**: TBD, 1508E Engineering Building  
@@ -29,7 +29,7 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [gautamsi@msu.edu](mailto:gautamsi@msu.edu)  
 
 ### Section 002
-Brian O'Shea
+**Brian O'Shea**  
 Professor, Department of Computational Mathematics, Science and Engineering & Department of Physics and Astronomy  
 Director, Institute for Cyber-Enabled Research  
 **Office hours**: TBD, 1508D Engineering Building    
