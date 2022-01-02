@@ -24,19 +24,19 @@ Department of Computational Mathematics, Science and Engineering
 **Office hours**: TBD, 1508E Engineering Building  
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
-**TA**: Siddhant Gautam
-**Office hours**: TBD  
+**TA**: Siddhant Gautam    
+**Office hours**: TBD    
 **Email**: [gautamsi@msu.edu](mailto:gautamsi@msu.edu)  
 
 ### Section 002
 Brian O'Shea
 Professor, Department of Computational Mathematics, Science and Engineering & Department of Physics and Astronomy  
-Director, Institute for Cyber-Enabled Research
-**Office hours**: TBD, 1508D Engineering Building  
-**Email**: [oshea@msu.edu](mailto:oshea@msu.edu)  
+Director, Institute for Cyber-Enabled Research  
+**Office hours**: TBD, 1508D Engineering Building    
+**Email**: [oshea@msu.edu](mailto:oshea@msu.edu)   
 
-**TA**: Simon Sanchez
-**Office hours**: TBD  
+**TA**: Simon Sanchez  
+**Office hours**: TBD    
 **Email**: [sanch364@msu.edu](mailto:sanch364@msu.edu)  
 
 
