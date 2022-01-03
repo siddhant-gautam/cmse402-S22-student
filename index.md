@@ -21,7 +21,7 @@ Course discussions for each section, 001 and 002, will be held in the `#dataviz-
 **Devin Silvia**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: TBD, 1508E Engineering Building  
+**Office hours**: Thursdays from 1-2pm and Fridays from 11am-12pm via [Zoom](https://msu.zoom.us/j/97536101605)  
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **TA**: Siddhant Gautam    
@@ -32,7 +32,7 @@ Department of Computational Mathematics, Science and Engineering
 **Brian O'Shea**  
 Professor, Department of Computational Mathematics, Science and Engineering & Department of Physics and Astronomy  
 Director, Institute for Cyber-Enabled Research  
-**Office hours**: TBD, 1508D Engineering Building    
+**Office hours**: Mondays from 1:00-3:00 p.m. in 1508F Egr. Bldg. - by appointment only.     
 **Email**: [oshea@msu.edu](mailto:oshea@msu.edu)   
 
 **TA**: Simon Sanchez  
