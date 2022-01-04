@@ -32,14 +32,12 @@ Department of Computational Mathematics, Science and Engineering
 **Brian O'Shea**  
 Professor, Department of Computational Mathematics, Science and Engineering & Department of Physics and Astronomy  
 Director, Institute for Cyber-Enabled Research  
-**Office hours**: Mondays from 1:00-3:00 p.m. **by appointment** via [Zoom only](https://msu.zoom.us/my/bwoshea) (at the moment; also 1508F Engineering Building when we return to face-to-face meetings) 
+**Office hours**: Mondays from 1:00-3:00 p.m. **by appointment** via [Zoom only](https://msu.zoom.us/my/bwoshea) (at the moment; also 1508F Engineering Building when we return to face-to-face meetings)   
 **Email**: [oshea@msu.edu](mailto:oshea@msu.edu)   
 
 **TA**: Simon Sanchez  
-**Office hours**: TBD    
+**Office hours**: Tuesday and Thursday 10am-12pm, Location: TBA     
 **Email**: [sanch364@msu.edu](mailto:sanch364@msu.edu)  
-
-
 
 
 ## Additional Reference materials
