@@ -25,7 +25,7 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **TA**: Siddhant Gautam    
-**Office hours**: TBD    
+**Office hours**: Wednesdays from 3:00-5:00 pm via [Zoom](https://msu.zoom.us/j/3565122963)
 **Email**: [gautamsi@msu.edu](mailto:gautamsi@msu.edu)  
 
 ### Section 002
